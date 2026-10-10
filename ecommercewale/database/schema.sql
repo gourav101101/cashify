@@ -53,3 +53,10 @@ insert into public.ew_service_areas(city,pins,active) values
   ('Indore','[]',false),('Ujjain','[]',false),('Dewas','[]',false)
 on conflict(city) do nothing;
 create index if not exists ew_enquiries_created on public.ew_enquiries(created_at desc);
+
+-- Run for existing and new databases before deploying the inventory upgrade.
+alter table public.ew_products add column if not exists stock integer not null default 0 check (stock between 0 and 10000);
+alter table public.ew_products add column if not exists sku text not null default '';
+alter table public.ew_products add column if not exists warranty text not null default '';
+alter table public.ew_products add column if not exists accessories text not null default '';
+alter table public.ew_products add column if not exists inspection text not null default '';

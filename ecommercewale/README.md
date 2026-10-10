@@ -1,5 +1,7 @@
 # ecommercewale.in
 
+For product pricing, stock, inspection disclosures and request management, see [ADMIN-GUIDE.md](ADMIN-GUIDE.md). Existing databases must apply `database/inventory-upgrade.sql` before deploying the inventory upgrade.
+
 Original responsive website for Indore, Ujjain and Dewas. Portable static frontend, Node serverless API and optional Supabase/PostgreSQL persistence. No framework dependencies or build step are needed.
 
 ## Included
