@@ -1,0 +1,107 @@
+﻿[
+    {
+        "url":  "https://www.cashify.in/",
+        "retrieved_at_utc":  "2026-10-10T05:41:50.3802646+00:00",
+        "status":  "fetch_failed",
+        "title":  "The remote server returned an error: (404) Not Found.",
+        "bytes":  0
+    },
+    {
+        "url":  "https://www.cashify.in/sell-old-mobile-phone",
+        "retrieved_at_utc":  "2026-10-10T05:41:52.2668294+00:00",
+        "status":  200,
+        "title":  "Sell Old Mobile Phone \u0026 Get Instant Cash At Doorstep | Cashify.in",
+        "bytes":  1111625
+    },
+    {
+        "url":  "https://www.cashify.in/buy-refurbished-mobile-phones",
+        "retrieved_at_utc":  "2026-10-10T05:41:56.7757265+00:00",
+        "status":  200,
+        "title":  "Cashify: Buy Refurbished Mobile Phone Online in India at Best Price",
+        "bytes":  1173413
+    },
+    {
+        "url":  "https://www.cashify.in/buy-refurbished-mobile-phones/renewed-apple-iphone-13/99848",
+        "retrieved_at_utc":  "2026-10-10T05:42:00.5652125+00:00",
+        "status":  200,
+        "title":  "Certified Refurbished Apple iPhone 13 | 6-Month Warranty | Cashify",
+        "bytes":  1812394
+    },
+    {
+        "url":  "https://www.cashify.in/repair",
+        "retrieved_at_utc":  "2026-10-10T05:42:06.3251989+00:00",
+        "status":  200,
+        "title":  "Mobile Phone Repair: Doorstep Mobile Screen, Battery, Mic, Speaker Repair - Cashify Repair",
+        "bytes":  897656
+    },
+    {
+        "url":  "https://www.cashify.in/refurbished-warranty-policy",
+        "retrieved_at_utc":  "2026-10-10T05:42:12.6195068+00:00",
+        "status":  200,
+        "title":  "Refurbished Warranty Policy | Cashify",
+        "bytes":  640493
+    },
+    {
+        "url":  "https://www.cashify.in/warranty-policy",
+        "retrieved_at_utc":  "2026-10-10T05:42:15.4181541+00:00",
+        "status":  200,
+        "title":  "Warranty Policy | Cashify",
+        "bytes":  615662
+    },
+    {
+        "url":  "https://www.cashify.in/buyback-guarantee-usage-policy",
+        "retrieved_at_utc":  "2026-10-10T05:42:18.1973729+00:00",
+        "status":  200,
+        "title":  "Buyback Guarantee : Usage Policy | Cashify",
+        "bytes":  600888
+    },
+    {
+        "url":  "https://www.cashify.in/partner-with-us",
+        "retrieved_at_utc":  "2026-10-10T05:42:21.5076048+00:00",
+        "status":  200,
+        "title":  "Partner With Us | Cashify",
+        "bytes":  628921
+    },
+    {
+        "url":  "https://www.cashify.in/about-us",
+        "retrieved_at_utc":  "2026-10-10T05:42:24.1964384+00:00",
+        "status":  200,
+        "title":  "About Us | Cashify.in",
+        "bytes":  680921
+    },
+    {
+        "url":  "https://www.cashify.in/privacy-policy",
+        "retrieved_at_utc":  "2026-10-10T05:42:27.2171778+00:00",
+        "status":  200,
+        "title":  "Privacy Policy | Cashify",
+        "bytes":  657622
+    },
+    {
+        "url":  "https://www.cashify.in/refurbished-terms-conditions",
+        "retrieved_at_utc":  "2026-10-10T05:42:30.1342159+00:00",
+        "status":  200,
+        "title":  "Terms \u0026 Conditions | Cashify",
+        "bytes":  634866
+    },
+    {
+        "url":  "https://www.cashify.in/offline-stores",
+        "retrieved_at_utc":  "2026-10-10T05:42:33.7107845+00:00",
+        "status":  200,
+        "title":  "Offline Stores - Mobile Buyback, Repair \u0026 Accessories | Cashify",
+        "bytes":  826146
+    },
+    {
+        "url":  "https://www.cashify.in/pixelupgrade",
+        "retrieved_at_utc":  "2026-10-10T05:42:36.7197906+00:00",
+        "status":  200,
+        "title":  "Google Pixel Upgrade Program with Assured Buyback",
+        "bytes":  90082
+    },
+    {
+        "url":  "https://www.cashify.in/recycle",
+        "retrieved_at_utc":  "2026-10-10T05:42:38.1654279+00:00",
+        "status":  "fetch_failed",
+        "title":  "The remote server returned an error: (404) Not Found.",
+        "bytes":  0
+    }
+]

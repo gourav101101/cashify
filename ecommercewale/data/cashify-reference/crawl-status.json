@@ -1,0 +1,288 @@
+{
+  "attempted": 40,
+  "discovered": 259,
+  "remaining": 219,
+  "limit": 40,
+  "exhaustive": false,
+  "pages": [
+    {
+      "url": "https://www.cashify.in/buy-refurbished-mobile-phones/renewed-apple-iphone-13/99848",
+      "observed_at_utc": "2026-10-10T07:11:46.183Z",
+      "status": 200,
+      "title": "Certified Refurbished Apple iPhone 13 | 6-Month Warranty | Cashify",
+      "characters": 1810792
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-mobile-phones/renewed-apple-iphone-14",
+      "observed_at_utc": "2026-10-10T07:11:48.089Z",
+      "status": 200,
+      "title": "Certified Refurbished Apple iPhone 14 | 6-Month Warranty | Cashify",
+      "characters": 1725246
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-mobile-phones/renewed-samsung-galaxy-s22-5g",
+      "observed_at_utc": "2026-10-10T07:11:49.446Z",
+      "status": "failed",
+      "error": "Redirect skipped; review destination and robots rules before collecting."
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-mobile-phones",
+      "observed_at_utc": "2026-10-10T07:11:50.765Z",
+      "status": 200,
+      "title": "Cashify: Buy Refurbished Mobile Phone Online in India at Best Price",
+      "characters": 1173482
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-laptops",
+      "observed_at_utc": "2026-10-10T07:11:52.080Z",
+      "status": 200,
+      "title": "Cashify: Buy Refurbished Laptop Online in India at Best Price",
+      "characters": 1031168
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-tablets",
+      "observed_at_utc": "2026-10-10T07:11:53.381Z",
+      "status": 200,
+      "title": "Cashify: Buy Refurbished Tablet Online in India at Best Price",
+      "characters": 906968
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-smart-watches",
+      "observed_at_utc": "2026-10-10T07:11:54.668Z",
+      "status": 200,
+      "title": "Cashify: Buy Refurbished Smartwatch Online in India at Best Price",
+      "characters": 919660
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-gaming-consoles",
+      "observed_at_utc": "2026-10-10T07:11:55.969Z",
+      "status": 200,
+      "title": "Cashify: Buy Refurbished Gaming Consoles Online in India at Best Price",
+      "characters": 964513
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-dslr-cameras",
+      "observed_at_utc": "2026-10-10T07:11:57.334Z",
+      "status": 200,
+      "title": "",
+      "characters": 1018719
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-amazon-devices",
+      "observed_at_utc": "2026-10-10T07:11:58.628Z",
+      "status": 200,
+      "title": "Cashify: Buy Refurbished Amazon Devices Online in India at Best Price",
+      "characters": 836557
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-gadgets",
+      "observed_at_utc": "2026-10-10T07:11:59.908Z",
+      "status": 200,
+      "title": "Buy Refurbished Gadgets Online in India at half price at Cashify Store",
+      "characters": 1439138
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-laptops/acer",
+      "observed_at_utc": "2026-10-10T07:12:01.214Z",
+      "status": 200,
+      "title": "Buy Refurbished Acer Laptop online in India at half price only at Cashify.in",
+      "characters": 832804
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-laptops/apple",
+      "observed_at_utc": "2026-10-10T07:12:02.506Z",
+      "status": 200,
+      "title": "Buy Refurbished Apple Laptop online in India at half price only at Cashify.in",
+      "characters": 848145
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-laptops/asus",
+      "observed_at_utc": "2026-10-10T07:12:03.789Z",
+      "status": 200,
+      "title": "Buy Refurbished Asus Laptop online in India at half price only at Cashify.in",
+      "characters": 851975
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-laptops/dell",
+      "observed_at_utc": "2026-10-10T07:12:05.079Z",
+      "status": 200,
+      "title": "Buy Refurbished Dell Laptop online in India at half price only at Cashify.in",
+      "characters": 874375
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-laptops/hp-compaq",
+      "observed_at_utc": "2026-10-10T07:12:06.375Z",
+      "status": 200,
+      "title": "Buy Refurbished HP/Compaq Laptop online in India at half price only at Cashify.in",
+      "characters": 863015
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-laptops/lenovo",
+      "observed_at_utc": "2026-10-10T07:12:08.418Z",
+      "status": 200,
+      "title": "Buy Refurbished Lenovo Laptop online in India at half price only at Cashify.in",
+      "characters": 875564
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-laptops/renewed-macbook-air-2020-13-inches-apple-m1-chip-refurbished",
+      "observed_at_utc": "2026-10-10T07:12:09.746Z",
+      "status": 200,
+      "title": "Certified Refurbished MacBook Air 2020 (13&#x27;&#x27; Apple M1 Chip) - Refurbished | 6-Month Warranty | Cashify",
+      "characters": 934614
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-laptops/renewed-macbook-air-early-2015-13-intel-core-i5-refurbished",
+      "observed_at_utc": "2026-10-10T07:12:11.047Z",
+      "status": 200,
+      "title": "Certified Refurbished MacBook Air Early 2015 (13&#x27;&#x27; Intel core i5) - Refurbished | 6-Month Warranty | Cashify",
+      "characters": 932244
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-laptops/renewed-macbook-air-mid-2017-13-inches-intel-core-i5-refurbished",
+      "observed_at_utc": "2026-10-10T07:12:12.366Z",
+      "status": 200,
+      "title": "Certified Refurbished MacBook Air Mid 2017 (13&#x27;&#x27; Intel Core i5) - Refurbished | 6-Month Warranty | Cashify",
+      "characters": 932929
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-mobile-phones/all-phones",
+      "observed_at_utc": "2026-10-10T07:12:13.662Z",
+      "status": 200,
+      "title": "Buy Refurbished All Mobile Phones Online in India at Cashify Store",
+      "characters": 878203
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-mobile-phones/apple",
+      "observed_at_utc": "2026-10-10T07:12:15.035Z",
+      "status": 200,
+      "title": "Buy Refurbished Apple Mobile Phone online in India at half price only at Cashify.in",
+      "characters": 862511
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-mobile-phones/google",
+      "observed_at_utc": "2026-10-10T07:12:16.316Z",
+      "status": 200,
+      "title": "Buy Refurbished Google Mobile Phone online in India at half price only at Cashify.in",
+      "characters": 836715
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-mobile-phones/oneplus",
+      "observed_at_utc": "2026-10-10T07:12:17.605Z",
+      "status": 200,
+      "title": "Buy Refurbished OnePlus Mobile Phone online in India at half price only at Cashify.in",
+      "characters": 848627
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-mobile-phones/oppo",
+      "observed_at_utc": "2026-10-10T07:12:18.999Z",
+      "status": 200,
+      "title": "Buy Refurbished OPPO Mobile Phone online in India at half price only at Cashify.in",
+      "characters": 849889
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-mobile-phones/samsung",
+      "observed_at_utc": "2026-10-10T07:12:20.300Z",
+      "status": 200,
+      "title": "Buy Refurbished Samsung Mobile Phone online in India at half price only at Cashify.in",
+      "characters": 866591
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-mobile-phones/vivo",
+      "observed_at_utc": "2026-10-10T07:12:21.604Z",
+      "status": 200,
+      "title": "Buy Refurbished Vivo Mobile Phone online in India at half price only at Cashify.in",
+      "characters": 865208
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-mobile-phones/what-is-refurbished-mobile-phones",
+      "observed_at_utc": "2026-10-10T07:12:22.891Z",
+      "status": 200,
+      "title": "What is Refurbished",
+      "characters": 763424
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-mobile-phones/xiaomi",
+      "observed_at_utc": "2026-10-10T07:12:24.188Z",
+      "status": 200,
+      "title": "Buy Refurbished Xiaomi Mobile Phone online in India at half price only at Cashify.in",
+      "characters": 869275
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-tablets/all-tablets",
+      "observed_at_utc": "2026-10-10T07:12:25.912Z",
+      "status": 200,
+      "title": "Buy Refurbished All Tablets Online in India at Cashify Store",
+      "characters": 847887
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-amazon-devices/amazon",
+      "observed_at_utc": "2026-10-10T07:12:27.218Z",
+      "status": 200,
+      "title": "Buy Refurbished Amazon Amazon Devices online in India at half price only at Cashify.in",
+      "characters": 805468
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-audio-devices/renewed-airpods-3rd-gen-charging-case/sale/224070",
+      "observed_at_utc": "2026-10-10T07:12:28.490Z",
+      "status": 200,
+      "title": "",
+      "characters": 921496
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-audio-devices/renewed-bose-quietcomfort-ultra-2nd-gen/sale/228864",
+      "observed_at_utc": "2026-10-10T07:12:29.787Z",
+      "status": 200,
+      "title": "",
+      "characters": 945799
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-audio-devices/renewed-samsung-galaxy-buds-3/sale/180388",
+      "observed_at_utc": "2026-10-10T07:12:31.120Z",
+      "status": 200,
+      "title": "",
+      "characters": 924622
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-audio-devices/renewed-samsung-galaxy-buds-3-pro/sale/180349",
+      "observed_at_utc": "2026-10-10T07:12:32.403Z",
+      "status": 200,
+      "title": "",
+      "characters": 931723
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-audio-devices/renewed-sony-wh-1000xm5-best-active-noise-cancelling-wireless-bluetooth-over-ear-headphones/sale/180580",
+      "observed_at_utc": "2026-10-10T07:12:33.696Z",
+      "status": 200,
+      "title": "Certified Refurbished Sony WH 1000XM5 Best Active Noise Cancelling Wireless Bluetooth Over Ear Headphones | 6-Month Warranty | Cashify",
+      "characters": 954930
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-audio-devices/renewed-sony-wh-1000xm6-noise-cancelling-headphones/sale/180575",
+      "observed_at_utc": "2026-10-10T07:12:35.002Z",
+      "status": 200,
+      "title": "Certified Refurbished Sony WH-1000XM6 Noise Cancelling Headphones | 6-Month Warranty | Cashify",
+      "characters": 936020
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-audio-devices/renewed-sony-wh-ch720n-active-noise-cancellation-wireless-bluetooth-over-ear-headphones/sale/180579",
+      "observed_at_utc": "2026-10-10T07:12:36.296Z",
+      "status": 200,
+      "title": "Certified Refurbished Sony WH CH720N Active Noise Cancellation Wireless Bluetooth Over Ear Headphones | 6-Month Warranty | Cashify",
+      "characters": 938938
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-gadgets/buymore-savemore",
+      "observed_at_utc": "2026-10-10T07:12:37.679Z",
+      "status": 200,
+      "title": "Buy More Save More on Refurbished Phones & Accessories",
+      "characters": 837631
+    },
+    {
+      "url": "https://www.cashify.in/buy-refurbished-mobile-phones/above-75000",
+      "observed_at_utc": "2026-10-10T07:12:38.999Z",
+      "status": 200,
+      "title": "Buy Refurbished Mobile Phones Above 75000 in India at Cashify.in",
+      "characters": 855309
+    }
+  ]
+}

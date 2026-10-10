@@ -1,0 +1,9 @@
+scenario,currency,net_sales_ex_tax,acquisition,refurbishment,logistics,handling_packaging,payment_fees,returns_warranty_reserve,fraud_shrinkage,allocated_marketing,total_variable_cost,contribution,fixed_monthly_assumption,break_even_units_rounded_up
+Base_assumption,INR,18000,13000,1000,450,350,250,550,150,700,16450,1550,600000,388
+Selling_price_down_5pct,INR,17100,13000,1000,450,350,250,550,150,700,16450,650,600000,924
+Acquisition_up_500,INR,18000,13500,1000,450,350,250,550,150,700,16950,1050,600000,572
+Refurbishment_up_500,INR,18000,13000,1500,450,350,250,550,150,700,16950,1050,600000,572
+Marketing_up_500,INR,18000,13000,1000,450,350,250,550,150,1200,16950,1050,600000,572
+Price_down_and_acquisition_repair_up,INR,17100,13500,1500,450,350,250,550,150,700,17450,-350,600000,not_possible_at_negative_contribution
+Cluster_logistics_up_200_assumption,INR,18000,13000,1000,650,350,250,550,150,700,16650,1350,600000,445
+Cluster_logistics_up_400_assumption,INR,18000,13000,1000,850,350,250,550,150,700,16850,1150,600000,522
